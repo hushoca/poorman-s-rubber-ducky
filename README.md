@@ -4,8 +4,8 @@ to visit my website.
 
 #Change log:
 
-v1.1:
->#####Keys added (All of these work with both PRESS and COMBINE commands):
+####v1.1:
+#####Keys added (All of these work with both PRESS and COMBINE commands):
 >   * KEY_TAB
 >   * KEY_DEL
 >   * KEY_ALT
@@ -13,7 +13,7 @@ v1.1:
 >   * KEY_SHIFT
 >   * KEY_WIN
 >   
->#####New commands added:
+#####New commands added:
 >   * COMBINE CTRL ALT DEL #presses CTRL+ALT+DEL at the same time
 >   * [COMBINE can use all keys + numbers + TAB,DEL,ALT,CTRL,SHIFT,WIN]
  
