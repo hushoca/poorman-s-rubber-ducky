@@ -9,6 +9,7 @@ v1.1:
    * KEY_CTRL
    * KEY_SHIFT
    [Works with both PRESS and COMBINE commands]
+ 
 v1.0:
  > Script Created
  > Available commands:
