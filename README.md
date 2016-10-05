@@ -1,6 +1,14 @@
 # Poor man's Rubber Ducky Script Converter
 
 #Change log:
+v1.1:
+ > Keys added:
+   * KEY_TAB
+   * KEY_DEL
+   * KEY_ALT
+   * KEY_CTRL
+   * KEY_SHIFT
+   [Works with both PRESS and COMBINE commands]
 v1.0:
  > Script Created
  > Available commands:
