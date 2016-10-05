@@ -1,4 +1,6 @@
 # Poor man's Rubber Ducky Script Converter
+ For more detail on how I came up with this script and how it works click [here](https://pages.github.com/)
+to visit my website.
 
 #Change log:
 
