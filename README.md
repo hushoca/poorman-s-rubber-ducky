@@ -3,17 +3,17 @@
 #Change log:
 
 v1.1:
-   Keys added (All of these work with both PRESS and COMBINE commands):
-   * KEY_TAB
-   * KEY_DEL
-   * KEY_ALT
-   * KEY_CTRLz
-   * KEY_SHIFT
-   * KEY_WIN
-   
-   New commands added:
-   * COMBINE CTRL ALT DEL #presses CTRL+ALT+DEL at the same time
-   * [COMBINE can use all keys + numbers + TAB,DEL,ALT,CTRL,SHIFT,WIN]
+>   Keys added (All of these work with both PRESS and COMBINE commands):
+>   * KEY_TAB
+>   * KEY_DEL
+>   * KEY_ALT
+>   * KEY_CTRLz
+>   * KEY_SHIFT
+>   * KEY_WIN
+>   
+>   New commands added:
+>   * COMBINE CTRL ALT DEL #presses CTRL+ALT+DEL at the same time
+>   * [COMBINE can use all keys + numbers + TAB,DEL,ALT,CTRL,SHIFT,WIN]
  
 v1.0:
  > Script Created
