@@ -4,7 +4,7 @@ to visit my website.
 
 #Change log:
 
-###v1.1:
+##v1.1:
 #####Keys added (All of these work with both PRESS and COMBINE commands):
 >   * KEY_TAB
 >   * KEY_DEL
@@ -17,7 +17,7 @@ to visit my website.
 >   * COMBINE CTRL ALT DEL #presses CTRL+ALT+DEL at the same time
 >   * [COMBINE can use all keys + numbers + TAB,DEL,ALT,CTRL,SHIFT,WIN]
  
-###v1.0:
+##v1.0:
 > Script Created
 
 #####Available commands:
