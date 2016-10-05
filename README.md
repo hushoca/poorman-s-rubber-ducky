@@ -1,6 +1,10 @@
 # Poor man's Rubber Ducky Script Converter
- For more detail on how I came up with this script and how it works click [here](https://hhoca.com/)
+For more detail on how I came up with this script and how it works click [here](https://hhoca.com/)
 to visit my website.
+
+Use the following command to convert script to ino (Arduino) file which then can be flashed to the DigiSpark using the DigiSpark IDE supplied with your DigiSpark USB dongle:
+> convert.py path/filename.txt path/filename.ino
+> [EXAMPLE USAGE: convert.py C:\Files\myscript.txt C:\Documents\digisparkscript.ino]
 
 ##Change log:
 
