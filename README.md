@@ -11,8 +11,8 @@ v1.1:
    * KEY_WIN
    [Works with both PRESS and COMBINE commands]
  > New commands added:
-  * COMBINE CTRL ALT DEL #presses CTRL+ALT+DEL at the same time
-  [COMBINE can use all keys + numbers + TAB,DEL,ALT,CTRL,SHIFT,WIN]
+   * COMBINE CTRL ALT DEL #presses CTRL+ALT+DEL at the same time
+   * [COMBINE can use all keys + numbers + TAB,DEL,ALT,CTRL,SHIFT,WIN]
  
 v1.0:
  > Script Created
